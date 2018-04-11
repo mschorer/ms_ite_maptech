@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" useMultiPlatformConfig="false" version="1">
+  <includeClasses>
+    <classEntry path="com.adobe.serialization.json.JSON"/>
+    <classEntry path="com.adobe.serialization.json.JSONDecoder"/>
+    <classEntry path="com.adobe.serialization.json.JSONEncoder"/>
+    <classEntry path="com.adobe.serialization.json.JSONParseError"/>
+    <classEntry path="com.adobe.serialization.json.JSONToken"/>
+    <classEntry path="com.adobe.serialization.json.JSONTokenType"/>
+    <classEntry path="com.adobe.serialization.json.JSONTokenizer"/>
+    <classEntry path="de.ms_ite.events.ClipEvent"/>
+    <classEntry path="de.ms_ite.events.DisplayDetailEvent"/>
+    <classEntry path="de.ms_ite.events.MouseSelectionEvent"/>
+    <classEntry path="de.ms_ite.events.RenderEvent"/>
+    <classEntry path="de.ms_ite.maptech.Bounds"/>
+    <classEntry path="de.ms_ite.maptech.DatumConv"/>
+    <classEntry path="de.ms_ite.maptech.ILoadQueue"/>
+    <classEntry path="de.ms_ite.maptech.LoadQueue"/>
+    <classEntry path="de.ms_ite.maptech.MapGlue"/>
+    <classEntry path="de.ms_ite.maptech.TileInfo"/>
+    <classEntry path="de.ms_ite.maptech.adapters.GeoFeedAdapter"/>
+    <classEntry path="de.ms_ite.maptech.containers.CompatLayer"/>
+    <classEntry path="de.ms_ite.maptech.containers.Lighttable"/>
+    <classEntry path="de.ms_ite.maptech.containers.MetaLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.AdaptiveLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.BirdsEyeLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.Layer"/>
+    <classEntry path="de.ms_ite.maptech.layers.MapLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.SimpleLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.SparkAdaptiveLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.SparkMapLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.SymbolLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.UISymbolLayer"/>
+    <classEntry path="de.ms_ite.maptech.layers.WrappingLayer"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.BinaryUtil"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfo"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoBlueMarble"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoDailyPlanet"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoGoogle"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoList"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoMicrosoft"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoOpenStreetMap"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoVEBirdsEye"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoWMTS"/>
+    <classEntry path="de.ms_ite.maptech.mapinfo.MapInfoYahoo"/>
+    <classEntry path="de.ms_ite.maptech.projections.BirdsEyeParameters"/>
+    <classEntry path="de.ms_ite.maptech.projections.Projection"/>
+    <classEntry path="de.ms_ite.maptech.projections.ProjectionMercator"/>
+    <classEntry path="de.ms_ite.maptech.projections.ProjectionVEBirdsEye"/>
+    <classEntry path="de.ms_ite.maptech.symbols.BitmapSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.GeomSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.ISymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.IconDrawSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.IconImageSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.IconLibSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.IconSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.ScalingSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.SelectionSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.SparkSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.Symbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.TextSymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.UISymbol"/>
+    <classEntry path="de.ms_ite.maptech.symbols.styles.DataStyle"/>
+    <classEntry path="de.ms_ite.maptech.symbols.styles.GeometryStyle"/>
+    <classEntry path="de.ms_ite.maptech.symbols.styles.IconStyle"/>
+    <classEntry path="de.ms_ite.maptech.symbols.styles.LineStyle"/>
+    <classEntry path="de.ms_ite.maptech.symbols.styles.SurfaceStyle"/>
+    <classEntry path="de.ms_ite.maptech.symbols.styles.SymbolStyle"/>
+    <classEntry path="de.ms_ite.maptech.tools.BirdsEyeParameterService"/>
+    <classEntry path="de.ms_ite.maptech.tools.SmoothTile"/>
+    <classEntry path="de.ms_ite.maptech.tools.ZoomFrame"/>
+    <classEntry path="de.ms_ite.maptech.tools.ZoomFrameCircle"/>
+    <classEntry path="de.ms_ite.ogc.OGCGeometry"/>
+    <classEntry path="de.ms_ite.ogc.OGCLinestring"/>
+    <classEntry path="de.ms_ite.ogc.OGCPoint"/>
+    <classEntry path="de.ms_ite.ogc.OGCPolygon"/>
+    <classEntry path="de.ms_ite.maptech.tiles.CacheTile"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
